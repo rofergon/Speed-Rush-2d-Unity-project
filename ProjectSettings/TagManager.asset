@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Jump
+  - CheckPoint
+  - OverpassCollider
+  - UnderpassCollider
+  - UnderpassTrigger
+  - OverpassTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ObjectOnUnderpass
+  - ObjectOnOverpass
+  - ObjectFlying
+  - Checkpoint
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4013018205
+    locked: 0
+  - name: RaceTrack
+    uniqueID: 4197800403
+    locked: 0
+  - name: Skidmarks
+    uniqueID: 3149123015
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: RaceTrackOverpass
+    uniqueID: 393168859
+    locked: 0
+  - name: SkidmarksOverpass
+    uniqueID: 359523961
+    locked: 0
+  - name: Flying
+    uniqueID: 3253256919
+    locked: 0
+  - name: Particles
+    uniqueID: 1914900909
+    locked: 0
+  m_RenderingLayers:
+  - Default

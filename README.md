@@ -52,7 +52,6 @@ git clone https://github.com/rofergon/Speed-Rush-2d-Unity-project.git
 - [ ] Online multiplayer mode
 - [ ] More tracks and vehicles
 - [ ] Progression system
-- [ ] NFT marketplace
 - [ ] Online tournaments
 
 ## 🤝 Contributing
@@ -72,6 +71,9 @@ This project is under the MIT License - see the [LICENSE](LICENSE) file for deta
 ## 👥 Credits
 
 Developed by [rofergon](https://github.com/rofergon)
+
+### Assets
+- Road and track assets by [Kenney](https://www.kenney.nl/) - [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ---
 ⭐ If you like this project, don't forget to give it a star! 
